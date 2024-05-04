@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "as",
+      "unitCost": 5
+    },
+    {
+      "id": 40,
+      "name": "lub",
+      "unitCost": 9
+    },
+    {
+      "id": 41,
+      "name": "lucky",
+      "unitCost": 34
+    },
+    {
+      "id": 2,
+      "name": "product-1",
+      "unitCost": 2
+    },
+    {
+      "id": 5,
+      "name": "prod-22",
+      "unitCost": 2,
+      "units": 2
+    },
+    {
+      "id": 6,
+      "name": "",
+      "unitCost": 4,
+      "units": 2
+    },
+    {
+      "id": 7,
+      "name": "ase",
+      "unitCost": 2,
+      "units": 2
+    },
+    {
+      "id": 8,
+      "name": "",
+      "unitCost": 2,
+      "units": 8
+    },
+    {
+      "id": 1,
+      "name": "a",
+      "unitCost": "",
+      "units": 1
+    }
+  ]
+}
